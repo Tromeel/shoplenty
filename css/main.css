@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: #f1e666;
+    background-color: #1e1b1b;
+    line-height: 80px;
+    font-size: 40px;
+    text-shadow: 4px 6px 4px #ff0000;
+
+}
+
+h1:hover{background-color: #0800ff
+}
+
+p{font-weight: bolder;
+    font-style: italic;
+
+}
+
+
+h2{text-decoration: underline;
+
+}
+
+img{
+    width: 280px;
+    height: 280px;
+
+}
+img:hover{opacity: 0.8}
+
+   a{
+
+      background-color: red;
+      margin: 20px;
+      padding: 20px;
+      color: rgb(255, 255, 255);
+      border-radius: 20px;
+      text-decoration: none;
+
+
+
+    }
+

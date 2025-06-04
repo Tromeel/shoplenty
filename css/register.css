@@ -1,0 +1,53 @@
+body{
+    background-image: url("../assets/blue.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-color: aquamarine;
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #0800ff;
+    color: #0800ff;
+
+}
+
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow:0 0 20px blueviolet;
+    font-family: DialogInput;
+}
+ input[type=text],input[type=email],input[type=password],input[type=tel],input[type=date],select{
+
+     width: 100%;
+     height: 50px;
+     border-radius: 10px;
+     margin-top: 10px;
+     box-shadow: 0 0 10px black;
+ }
+
+ button{
+     background-color: rgba(51, 34, 112, 0.86);
+     padding: 10px;
+     width: 30%;
+     color: cyan;
+     border-radius: 100px;
+     margin: 0 auto;
+     display: block;
+
+ }
+
+ button:hover{background-color: rgb(8, 0, 255)
+ }
+ input[type=text]:focus{
+     background-color: #5984dc;
+ }
+
+
+
+

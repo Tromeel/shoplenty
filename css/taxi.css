@@ -1,0 +1,15 @@
+#taximain{
+    display: flex;
+    width: 100%;
+
+
+}
+
+img{
+    width: 400px;
+    height: 150px;
+    margin-right: 100px;
+}
+ul{
+    line-height: 30px;
+}

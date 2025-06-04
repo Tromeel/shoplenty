@@ -1,0 +1,45 @@
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    border-radius: 100px;
+}
+body{
+    background-color: rgba(230, 225, 179, 0.89);
+}
+
+
+
+
+h1{
+    text-align: center;
+    font-size: 40px;
+
+
+
+
+
+
+}
+hr{
+    color: aqua;
+    margin-left: 200px;
+    margin-top: -30px;
+    margin-right: 200px;
+}
+
+h2{
+    color: rgba(255, 115, 0, 0.91);
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-top: 40px;
+
+
+}
+p{
+    font-style: italic;
+    margin-left: 200px;
+    line-height: 0.8;
+
+}
